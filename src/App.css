@@ -1,0 +1,5 @@
+.main-adjustment{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}

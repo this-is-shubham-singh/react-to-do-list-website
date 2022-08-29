@@ -1,0 +1,46 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 35px;
+    margin-top: 90px;
+
+}
+
+.footer-back-button {
+    background-color: white;
+    border: none;
+    font-size: 15px;
+}
+
+.footer-back-button:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+.footer-back-arrow {
+    margin-right: 10px;
+}
+
+.footer-dual-button-container {}
+
+.footer-shopping-button {
+    margin-right: 15px;
+    background-color: white;
+}
+
+.footer-shopping-button:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.footer-payment-button {
+    background-color: rgb(102, 203, 102);
+    color: white
+}
+
+.footer-payment-button:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}

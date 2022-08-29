@@ -1,0 +1,87 @@
+.login-main-container {
+    /* border: 1px solid black; */
+}
+
+.login-buttons-container {
+    /* border: 2px solid green; */
+    display: flex;
+    gap: 1rem;
+}
+
+.login-button-login {
+    background-color: rgb(133, 234, 140);
+    color: white;
+}
+
+.login-button-login:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+
+}
+
+.login-button-signup {
+    color: rgb(101, 100, 100);
+    background-color: white;
+    cursor: pointer;
+}
+
+.login-button-signup:hover{
+    color: white;
+    background-color: black;
+}
+
+button {
+    border-radius: 35px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border: 0.1px solid #C0C0C0;
+}
+
+
+.login-heading-container {
+    /* border: 2px solid red; */
+    margin-top: 30px;
+    margin-bottom: 18px;
+}
+
+.login-heading {
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(27, 26, 26)
+}
+
+
+
+.login-third-container {
+    /* border: 2px solid blueviolet; */
+    display: flex;
+    gap: 1rem;
+}
+
+.login-third-one {
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.login-third-two {
+    /* border: 2px solid yellow; */
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.login-input {
+    border-width: 0.2px;
+    border-color: rgb(199, 196, 196);
+    border-radius: 35px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    width: 200px;
+}
